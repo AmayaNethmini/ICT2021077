@@ -1,2 +1,2 @@
-# Website for Vimo Fashion
+# Website for Vimo Fashion & Garment
 Website for Vimo Fashion &amp; Garment
