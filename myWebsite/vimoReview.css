@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(226, 219, 219);
+}
+.box{
+    border: 1px soild black;
+    background-color:rgb(42, 37, 28);
+    height: 50px;
+}
+h2{
+    font-size: 30px;
+    font-family: barlow condensed;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    position: absolute;
+    margin-top: 8px;
+    left: 45%;
+}
+.imgset1 img{
+    background-size: cover;
+    height: 270px;
+    width: 250px;
+    margin-left: 40px;
+}
+h1{
+    font-size: 40px;
+    font-family: barlow condensed;
+    color: rgb(248, 1, 1);
+    font-weight: bold;
+    text-align: center;
+}
